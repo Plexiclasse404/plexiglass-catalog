@@ -1,0 +1,260 @@
+{
+  "categories": [
+    {
+      "id": "presentoirs",
+      "name": "Présentoirs",
+      "description": "Présentoirs en plexiglass sur mesure pour vitrines, comptoirs et espaces commerciaux. Design élégant et transparent pour mettre en valeur vos produits.",
+      "coverImage": "/images/categories/presentoirs.jpg",
+      "products": [
+        {
+          "id": "p1",
+          "name": "Présentoir de Sol A4",
+          "image": "/images/products/p1.jpg",
+          "description": "Présentoir de sol en plexiglass transparent avec support A4. Hauteur 1210mm, base stable et design épuré. Idéal pour salons, magasins et événements."
+        },
+        {
+          "id": "p2",
+          "name": "Présentoir de Comptoir Multi-Formats",
+          "image": "/images/products/p2.jpg",
+          "description": "Ensemble de présentoirs de comptoir en plexiglass avec différents formats : incliné, en U et cube. Parfait pour exposer bijoux, cosmétiques et accessoires."
+        },
+        {
+          "id": "p3",
+          "name": "Présentoir Bijoux avec Crochets",
+          "image": "/images/products/p3.jpg",
+          "description": "Présentoir vertical en plexiglass avec crochets intégrés pour boucles d'oreilles et colliers. Compartiments de rangement en bas. Design professionnel pour boutiques."
+        },
+        {
+          "id": "p4",
+          "name": "Présentoir Mural avec Étagères",
+          "image": "/images/products/p4.jpg",
+          "description": "Présentoir mural en plexiglass avec étagères et crochets. Solution optimale pour maximiser l'espace d'exposition en hauteur. Fixation murale invisible."
+        }
+      ]
+    },
+    {
+      "id": "box",
+      "name": "Box",
+      "description": "Boîtes transparentes en plexiglass de haute qualité. Protection, élégance et visibilité totale pour vos objets de valeur.",
+      "coverImage": "/images/categories/box.jpg",
+      "products": [
+        {
+          "id": "p5",
+          "name": "Boîte de Rangement avec Couvercle",
+          "image": "/images/products/p5.jpg",
+          "description": "Boîte carrée en plexiglass avec couvercle à charnières. Fermeture sécurisée et design minimaliste. Dimensions personnalisables sur demande."
+        },
+        {
+          "id": "p6",
+          "name": "Boîte Vitrine pour Montres",
+          "image": "/images/products/p6.jpg",
+          "description": "Boîte vitrine rectangulaire en plexiglass transparent, idéale pour l'exposition de montres, bijoux et objets de collection. Fond blanc inclus."
+        },
+        {
+          "id": "p7",
+          "name": "Coffret Cadeau Transparent",
+          "image": "/images/products/p7.jpg",
+          "description": "Coffret cadeau en plexiglass dans différentes formes : hexagonale, carrée, rectangulaire. Parfait pour emballages premium et cadeaux d'entreprise."
+        }
+      ]
+    },
+    {
+      "id": "chariot",
+      "name": "Chariot",
+      "description": "Chariots et chariots de service en plexiglass transparent. Mobilité, élégance et fonctionnalité pour le service et le rangement.",
+      "coverImage": "/images/categories/chariot.jpg",
+      "products": [
+        {
+          "id": "p8",
+          "name": "Chariot de Service 2 Niveaux",
+          "image": "/images/products/p8.jpg",
+          "description": "Chariot de service en plexiglass avec 2 niveaux et roulettes chromées. Design épuré et moderne pour service en salle, événements et salons."
+        },
+        {
+          "id": "p9",
+          "name": "Chariot Esthétique 3 Niveaux",
+          "image": "/images/products/p9.jpg",
+          "description": "Chariot professionnel à 3 niveaux en plexiglass pour instituts de beauté et spas. Roulettes silencieuses et poignées ergonomiques."
+        },
+        {
+          "id": "p10",
+          "name": "Chariot de Rangement Universel",
+          "image": "/images/products/p10.jpg",
+          "description": "Chariot de rangement polyvalent en plexiglass avec 3 étagères. Idéal pour bureau, cuisine ou salle de bain. Roulettes avec frein de sécurité."
+        }
+      ]
+    },
+    {
+      "id": "porte-capsule",
+      "name": "Porte Capsule",
+      "description": "Porte-capsules de café en plexiglass. Organisation élégante et accessible pour vos capsules Nespresso, Dolce Gusto et compatibles.",
+      "coverImage": "/images/categories/porte-capsule.jpg",
+      "products": [
+        {
+          "id": "p11",
+          "name": "Distributeur Vertical Nespresso",
+          "image": "/images/products/p11.jpg",
+          "description": "Distributeur vertical en plexiglass pour capsules Nespresso. Capacité 40 capsules avec système de gravité. Design moderne pour cuisine ou bureau."
+        },
+        {
+          "id": "p12",
+          "name": "Boîte à Capsules avec Couvercle",
+          "image": "/images/products/p12.jpg",
+          "description": "Boîte de rangement en plexiglass avec couvercle pour capsules Nespresso Vertuo et Original. Capacité 20 à 50 capsules selon format."
+        }
+      ]
+    },
+    {
+      "id": "plateaux",
+      "name": "Plateaux",
+      "description": "Plateaux de service en plexiglass transparent. Élégance cristalline pour le service, la décoration et l'organisation.",
+      "coverImage": "/images/categories/plateaux.jpg",
+      "products": [
+        {
+          "id": "p13",
+          "name": "Plateau Rectangulaire avec Poignées",
+          "image": "/images/products/p13.jpg",
+          "description": "Plateau de service rectangulaire en plexiglass avec poignées intégrées. Bords surélevés pour sécurité. Parfait pour room service et événements."
+        },
+        {
+          "id": "p14",
+          "name": "Plateau Octogonal Design",
+          "image": "/images/products/p14.jpg",
+          "description": "Plateau octogonal en plexiglass avec poignées dorées. Design contemporain et luxueux pour service hôtelier et décoration d'intérieur."
+        }
+      ]
+    },
+    {
+      "id": "boite-fleurs",
+      "name": "Boîte Fleurs",
+      "description": "Boîtes à fleurs en plexiglass transparent. Présentation florale élégante et durable pour bouquets, roses éternelles et compositions.",
+      "coverImage": "/images/categories/boite-fleurs.jpg",
+      "products": [
+        {
+          "id": "p15",
+          "name": "Boîte à Roses Éternelles",
+          "image": "/images/products/p15.jpg",
+          "description": "Boîte carrée en plexiglass avec couvercle pour roses éternelles. Fond avec picots de maintien. Dimensions sur mesure disponibles."
+        },
+        {
+          "id": "p16",
+          "name": "Valise à Fleurs Transparente",
+          "image": "/images/products/p16.jpg",
+          "description": "Valise à fleurs en plexiglass avec poignée perlée. Design unique et romantique pour bouquets cadeaux. Ouverture facile par le dessus."
+        }
+      ]
+    },
+    {
+      "id": "boite-gateaux",
+      "name": "Boîte Gâteaux",
+      "description": "Boîtes à gâteaux et pâtisseries en plexiglass. Protection hygiénique et visibilité totale pour vos créations sucrées.",
+      "coverImage": "/images/categories/boite-gateaux.jpg",
+      "products": [
+        {
+          "id": "p17",
+          "name": "Vitrine à Gâteaux 3 Niveaux",
+          "image": "/images/products/p17.jpg",
+          "description": "Vitrine à gâteaux en plexiglass avec 3 niveaux et porte frontale. Idéale pour boulangeries, pâtisseries et buffets. Nettoyage facile."
+        },
+        {
+          "id": "p18",
+          "name": "Boîte à Cupcakes Transparente",
+          "image": "/images/products/p18.jpg",
+          "description": "Boîte de transport en plexiglass pour cupcakes et petits gâteaux. Compartiments individuels et couvercle sécurisé. Parfait pour livraisons."
+        }
+      ]
+    },
+    {
+      "id": "boite-compartiments",
+      "name": "Boîte à Compartiments",
+      "description": "Boîtes organisatrices avec compartiments en plexiglass. Organisation optimale pour bureau, cosmétiques et accessoires.",
+      "coverImage": "/images/categories/boite-compartiments.jpg",
+      "products": [
+        {
+          "id": "p19",
+          "name": "Organisateur 4 Compartiments",
+          "image": "/images/products/p19.jpg",
+          "description": "Organisateur en plexiglass avec 4 compartiments égaux. Parfait pour sachets de thé, cosmétiques et fournitures de bureau. Design épuré."
+        },
+        {
+          "id": "p20",
+          "name": "Boîte de Rangement Multi-Usage",
+          "image": "/images/products/p20.jpg",
+          "description": "Boîte de rangement rectangulaire en plexiglass avec séparateurs amovibles. Personnalisable selon vos besoins de stockage."
+        }
+      ]
+    },
+    {
+      "id": "boite-mouchoir",
+      "name": "Boîte Mouchoir",
+      "description": "Boîtes à mouchoirs en plexiglass transparent. Design moderne et hygiénique pour la maison, le bureau et l'hôtellerie.",
+      "coverImage": "/images/categories/boite-mouchoir.jpg",
+      "products": [
+        {
+          "id": "p21",
+          "name": "Boîte à Mouchoirs Design",
+          "image": "/images/products/p21.jpg",
+          "description": "Boîte à mouchoirs en plexiglass avec compartiment rangement intégré. Design moderne avec finition miroir. Parfait pour salon et bureau."
+        },
+        {
+          "id": "p22",
+          "name": "Boîte à Mouchoirs Classique",
+          "image": "/images/products/p22.jpg",
+          "description": "Boîte à mouchoirs rectangulaire en plexiglass transparent pur. Ouverture ovale élégante et fond solide. Design intemporel."
+        }
+      ]
+    },
+    {
+      "id": "support",
+      "name": "Support",
+      "description": "Supports et socles en plexiglass pour exposition, décoration et présentation. Élégance transparente pour sublimer vos objets.",
+      "coverImage": "/images/categories/support.jpg",
+      "products": [
+        {
+          "id": "p23",
+          "name": "Support de Comptoir Multi-Formats",
+          "image": "/images/products/p23.jpg",
+          "description": "Ensemble de supports de comptoir en plexiglass : incliné, en U et cube. Idéal pour présenter produits, photos et documents promotionnels."
+        },
+        {
+          "id": "p24",
+          "name": "Socle de Présentation Carré",
+          "image": "/images/products/p24.jpg",
+          "description": "Socle de présentation carré en plexiglass transparent. Hauteur personnalisable. Parfait pour sculptures, trophées et objets d'art."
+        },
+        {
+          "id": "p25",
+          "name": "Support de Sol pour Art",
+          "image": "/images/products/p25.jpg",
+          "description": "Support de sol en plexiglass pour exposition d'œuvres d'art. Design minimaliste et stable. Hauteur ajustable selon besoins."
+        }
+      ]
+    },
+    {
+      "id": "urne",
+      "name": "Urne",
+      "description": "Urnes et boîtes à suggestions en plexiglass transparent. Sécurité, transparence et élégance pour événements et collectes.",
+      "coverImage": "/images/categories/urne.jpg",
+      "products": [
+        {
+          "id": "p26",
+          "name": "Urne avec Serrure et Fente",
+          "image": "/images/products/p26.jpg",
+          "description": "Urne en plexiglass avec serrure à clé et fente de dépôt. Sécurité maximale pour collectes de fonds, votes et événements."
+        },
+        {
+          "id": "p27",
+          "name": "Urne de Vote Standard",
+          "image": "/images/products/p27.jpg",
+          "description": "Urne de vote carrée en plexiglass transparent. Fente de dépôt sur le dessus. Design simple et fonctionnel pour assemblées et élections."
+        },
+        {
+          "id": "p28",
+          "name": "Urne avec Porte-Affiche",
+          "image": "/images/products/p28.jpg",
+          "description": "Urne en plexiglass avec porte-affiche intégré sur le devant. Parfait pour collectes de fonds avec visibilité du message."
+        }
+      ]
+    }
+  ]
+}
